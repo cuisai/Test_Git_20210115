@@ -21,6 +21,7 @@ public class HashMap_test {
         Node node;*/
 
         /**正则表达式*/
+
         String content = "/";
 
         String pattern = "[^/*~`!@#$%^&*()_+=-\\{\\}\\[\\].\\,\\|\\;\\']{1,50}";
