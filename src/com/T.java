@@ -39,7 +39,7 @@ public class T {
      * @param args
      */
     public static void main(String[] args) {
-        // TODO Auto-generated method stub
+        // TODO Auto-generated method stub 123
         String str = "hello你好吗,我很好 thank you";
         String reg = "[\u2E80-\u9FFF]";
         Pattern pat = Pattern.compile(reg);
